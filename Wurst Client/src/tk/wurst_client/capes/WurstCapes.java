@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 - 2015 | Alexander01998 and contributors
+ * Copyright Â© 2014 - 2015 | Alexander01998 and contributors
  * All rights reserved.
  * 
  * This Source Code Form is subject to the terms of the Mozilla Public
@@ -43,7 +43,7 @@ public class WurstCapes
 			{
 				HttpsURLConnection connection =
 					(HttpsURLConnection)new URL(
-						"https://www.wurst-client.tk/api/v1/capes.json")
+						"http://jsonblob.com/5672e6c2e4b01190df44d7e4")
 						.openConnection();
 				connection.connect();
 				capes =
